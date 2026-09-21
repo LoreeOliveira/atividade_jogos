@@ -14,42 +14,42 @@
 
 ## 📌 Sobre o Projeto
 
-O **GameZone Retrô** é uma página web desenvolvida como parte de uma atividade prática[cite: 1]. O objetivo do projeto foi aplicar os conceitos fundamentais da linguagem de marcação **HTML5**, construindo a estrutura de um site para uma loja de jogos clássicos[cite: 1].
+O **GameZone Retrô** é uma página web desenvolvida como parte de uma atividade prática. O objetivo do projeto foi aplicar os conceitos fundamentais da linguagem de marcação **HTML5**, construindo a estrutura de um site para uma loja de jogos clássicos.
 
 ---
 
 ## 🚀 Elementos HTML Utilizados no Código
 
-- **Cabeçalhos e Destaques:** Uso das tags `<h1>`, `<h2>`, `<strong>` e `<em>` para hierarquia e formatação de texto[cite: 1].
-- **Navegação por Âncoras:** Links para navegação dentro da própria página (*"Ver Preços"* e *"Voltar ao topo"*)[cite: 1].
-- **Links Externos:** Integração de atalho para redes sociais (Instagram)[cite: 1].
-- **Imagens:** Exibição de imagens ilustrativas com acessibilidade (`alt`)[cite: 1].
-- **Listas:** Utilização de lista não ordenada (`<ul>`) com as opções de consoles (NES, SNES, Sega Genesis, Atari 2600)[cite: 1].
-- **Tabelas:** Estrutura de tabela (`<table>`) para apresentar o catálogo de jogos e seus valores[cite: 1].
+- **Cabeçalhos e Destaques:** Uso das tags `<h1>`, `<h2>`, `<strong>` e `<em>` para hierarquia e formatação de texto.
+- **Navegação por Âncoras:** Links para navegação dentro da própria página (*"Ver Preços"* e *"Voltar ao topo"*).
+- **Links Externos:** Integração de atalho para redes sociais (Instagram).
+- **Imagens:** Exibição de imagens ilustrativas com acessibilidade (`alt`).
+- **Listas:** Utilização de lista não ordenada (`<ul>`) com as opções de consoles (NES, SNES, Sega Genesis, Atari 2600).
+- **Tabelas:** Estrutura de tabela (`<table>`) para apresentar o catálogo de jogos e seus valores.
 
 ---
 
 ## 💰 Consoles e Preços em Destaque
 
 ### 🕹️ Consoles Disponíveis:
-- Nintendo (NES)[cite: 1]
-- Super Nintendo (SNES)[cite: 1]
-- Sega Games[cite: 1]
-- Atari 2600[cite: 1]
+- Nintendo (NES)
+- Super Nintendo (SNES)
+- Sega Games
+- Atari 2600
 
 ### 💵 Tabela de Preços:
 
 | Jogo | Console | Preço |
 | :--- | :--- | :--- |
-| Super Mario Bros | NES | R$ 85,00[cite: 1] |
-| Sonic | Genesis | R$ 70,00[cite: 1] |
-| Zelda | NES | R$ 120,00[cite: 1] |
+| Super Mario Bros | NES | R$ 85,00 |
+| Sonic | Genesis | R$ 70,00 |
+| Zelda | NES | R$ 120,00 |
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **HTML5**[cite: 1]
+- **HTML5**
 
 ---
 
@@ -57,7 +57,7 @@ O **GameZone Retrô** é uma página web desenvolvida como parte de uma atividad
 
 1. Faça o download ou clone este repositório.
 2. Abra a pasta onde o arquivo foi salvo.
-3. Clique duas vezes no arquivo `gameZone.HTML` para abri-lo em qualquer navegador web[cite: 1].
+3. Clique duas vezes no arquivo `gameZone.HTML` para abri-lo em qualquer navegador web.
 
 ---
 
